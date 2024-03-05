@@ -2,67 +2,192 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1alpha2/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1alpha2/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1alpha2/gateway/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1alpha2/gateway/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1alpha2/gatewayClass/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1alpha2/gatewayClass/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1alpha2/httpRoute/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1alpha2/httpRoute/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1alpha2/referenceGrant/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1alpha2/referenceGrant/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1beta1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1beta1/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1beta1/gateway/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1beta1/gateway/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1beta1/gatewayClass/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1beta1/gatewayClass/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1beta1/httpRoute/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1beta1/httpRoute/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/v0.7.1/gateway/v1beta1/referenceGrant/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.7/gateway/v1beta1/referenceGrant/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1alpha2/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1alpha2/gateway/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1alpha2/gatewayClass/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1alpha2/httpRoute/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1alpha2/referenceGrant/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1beta1/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1beta1/gateway/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1beta1/gatewayClass/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1beta1/httpRoute/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/0.8/gateway/v1beta1/referenceGrant/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1/gateway/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1/gatewayClass/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1/httpRoute/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1alpha2/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1alpha2/referenceGrant/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1beta1/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1beta1/gateway/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1beta1/gatewayClass/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1beta1/httpRoute/</loc>
+         <lastmod>2024-03-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/gateway-api-libsonnet/1.0/gateway/v1beta1/referenceGrant/</loc>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
