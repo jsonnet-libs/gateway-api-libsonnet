@@ -1,5 +1,5 @@
 ---
-permalink: /1.3-experimental/gateway/
+permalink: /1.4-experimental/gateway/
 ---
 
 # gateway
