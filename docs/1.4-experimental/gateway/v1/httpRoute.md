@@ -1044,7 +1044,7 @@ withName(name)
 withValue(value)
 ```
 
-"Value is the value of HTTP Header to be matched.\n\nMust consist of printable US-ASCII characters, optionally separated\nby single tabs or spaces. See: https://tools.ietf.org/html/rfc7230#section-3.2"
+"Value is the value of HTTP Header to be matched."
 
 ## obj spec.rules.backendRefs.filters.requestHeaderModifier.set
 
@@ -1064,7 +1064,7 @@ withName(name)
 withValue(value)
 ```
 
-"Value is the value of HTTP Header to be matched.\n\nMust consist of printable US-ASCII characters, optionally separated\nby single tabs or spaces. See: https://tools.ietf.org/html/rfc7230#section-3.2"
+"Value is the value of HTTP Header to be matched."
 
 ## obj spec.rules.backendRefs.filters.requestMirror
 
@@ -1282,7 +1282,7 @@ withName(name)
 withValue(value)
 ```
 
-"Value is the value of HTTP Header to be matched.\n\nMust consist of printable US-ASCII characters, optionally separated\nby single tabs or spaces. See: https://tools.ietf.org/html/rfc7230#section-3.2"
+"Value is the value of HTTP Header to be matched."
 
 ## obj spec.rules.backendRefs.filters.responseHeaderModifier.set
 
@@ -1302,7 +1302,7 @@ withName(name)
 withValue(value)
 ```
 
-"Value is the value of HTTP Header to be matched.\n\nMust consist of printable US-ASCII characters, optionally separated\nby single tabs or spaces. See: https://tools.ietf.org/html/rfc7230#section-3.2"
+"Value is the value of HTTP Header to be matched."
 
 ## obj spec.rules.backendRefs.filters.urlRewrite
 
@@ -1690,7 +1690,7 @@ withName(name)
 withValue(value)
 ```
 
-"Value is the value of HTTP Header to be matched.\n\nMust consist of printable US-ASCII characters, optionally separated\nby single tabs or spaces. See: https://tools.ietf.org/html/rfc7230#section-3.2"
+"Value is the value of HTTP Header to be matched."
 
 ## obj spec.rules.filters.requestHeaderModifier.set
 
@@ -1710,7 +1710,7 @@ withName(name)
 withValue(value)
 ```
 
-"Value is the value of HTTP Header to be matched.\n\nMust consist of printable US-ASCII characters, optionally separated\nby single tabs or spaces. See: https://tools.ietf.org/html/rfc7230#section-3.2"
+"Value is the value of HTTP Header to be matched."
 
 ## obj spec.rules.filters.requestMirror
 
@@ -1928,7 +1928,7 @@ withName(name)
 withValue(value)
 ```
 
-"Value is the value of HTTP Header to be matched.\n\nMust consist of printable US-ASCII characters, optionally separated\nby single tabs or spaces. See: https://tools.ietf.org/html/rfc7230#section-3.2"
+"Value is the value of HTTP Header to be matched."
 
 ## obj spec.rules.filters.responseHeaderModifier.set
 
@@ -1948,7 +1948,7 @@ withName(name)
 withValue(value)
 ```
 
-"Value is the value of HTTP Header to be matched.\n\nMust consist of printable US-ASCII characters, optionally separated\nby single tabs or spaces. See: https://tools.ietf.org/html/rfc7230#section-3.2"
+"Value is the value of HTTP Header to be matched."
 
 ## obj spec.rules.filters.urlRewrite
 
@@ -2064,7 +2064,7 @@ withType(type)
 withValue(value)
 ```
 
-"Value is the value of HTTP Header to be matched.\n\nMust consist of printable US-ASCII characters, optionally separated\nby single tabs or spaces. See: https://tools.ietf.org/html/rfc7230#section-3.2"
+"Value is the value of HTTP Header to be matched."
 
 ## obj spec.rules.matches.path
 
